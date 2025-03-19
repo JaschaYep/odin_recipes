@@ -1,0 +1,14 @@
+*{
+    font-family: "Times New Roman", serif;
+}
+
+.main {
+    color:red;
+    background-color: yellow;
+    font-weight: 700;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 300px;
+}
